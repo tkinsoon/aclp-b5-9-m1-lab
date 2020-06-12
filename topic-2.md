@@ -9,7 +9,7 @@
 
 **[Optional]**
 
-4. Add on questions to know more about the attendee's background and their needs for marketing purpose
+5. Add on questions to know more about the attendee's background and their needs for marketing purpose
 
 ### B. Pre-Requisites
 
