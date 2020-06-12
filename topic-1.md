@@ -1,12 +1,12 @@
 # Topic 1 - Event Registration Form
 
-### Requirement
+### A. Requirement
 
-### Pre-Requisites
+### B. Pre-Requisites
 
 You need to login with your Google account to complete this case study
 
-### Steps
+### C. Steps
 
 1. [Click here to access to the lab folder](https://drive.google.com/drive/u/0/folders/1xk_swGfC2Z4G2uQ9DE8apMsOeieFEzj1)
 
