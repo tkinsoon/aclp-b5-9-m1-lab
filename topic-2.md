@@ -2,7 +2,7 @@
 
 ### A. Requirement
 
-1. Your **IT company** is planning to run a **Webinar**. The topic is more on **Digital Transformation** in line with the Government direction and strategy. **As one of the event organisers, you are assigned to create a survey form for this webinar** 
+1. Your **IT company** is planning to run a **Webinar**. The topic is more on **Digital Transformation** in line with the Government direction and strategy. **As one of the event organisers, you are assigned to create a Survey Form for this webinar** 
 2. The webinar is a **ONE** hour session 
 3. The webinar is open to the public from different industries who are intereted to transform their business into business model 
 4. You only need to create **THREE (3)** questions in this survey form
