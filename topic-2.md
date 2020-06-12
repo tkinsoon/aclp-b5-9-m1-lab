@@ -1,4 +1,4 @@
-# Topic 2 - Survey Form
+# Group 2 - Survey Form
 
 ### A. Requirement
 
