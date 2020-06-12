@@ -6,10 +6,7 @@
 2. The webinar is a **ONE** hour session 
 3. The webinar is open to the public from different industries who are intereted to transform their business into business model 
 4. You only need to create **THREE (3)** questions in this survey form
-
-**[Optional]**
-
-5. Add on questions to know more about the attendee's background and their needs for marketing purpose
+5. **[Optional]** Add on questions to know more about the attendee's background and their needs for marketing purpose
 
 ### B. Pre-Requisites
 
