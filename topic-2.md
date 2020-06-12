@@ -7,7 +7,7 @@
 3. The webinar is open to the public from different industries who are intereted to transform their business into business model 
 4. You only need to create **THREE (3)** questions in this survey form
 
-**<Optional>**
+**[Optional]**
 
 4. Add on questions to know more about the attendee's background and their needs for marketing purpose
 
