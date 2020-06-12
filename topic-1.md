@@ -7,9 +7,9 @@
 2. The webinar is a **ONE** hour session 
 3. The webinar is open to the public from different industries who are intereted to transform their business into business model 
 4. You only need to create **THREE (3)** questions in this registration form
-5. **[Optional]** Add on questions to know more about the attendee's background and their needs for marketing purpose
+5. You need to test out the email invite and make sure the form is also included in the email [Hint: Click the "Send" button and find out more]
 
-You may also refer to the sample [[here]](https://drive.google.com/drive/u/0/folders/18j0Xj7u1HD8wdLhrJJyuqUCs0xj6aEag)
+You may refer to the sample [[here]](https://drive.google.com/drive/u/0/folders/18j0Xj7u1HD8wdLhrJJyuqUCs0xj6aEag)
 
 ### B. Pre-Requisites
 
