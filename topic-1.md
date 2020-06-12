@@ -1,5 +1,3 @@
-![title](/images/title1.png)
-
 # Topic 1 - Event Registration Form
 
 ## Requirement
