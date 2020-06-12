@@ -2,12 +2,14 @@
 
 ### A. Requirement
 
-1. You need to create a
-2. You need to create 3 questions in this survey form
-3. The questions should be relevant to the topic
+1. You need to create a new Survey Form for an IT Webinar
+2. The IT Webinar is a ONE hour session, and the topic 
+3. The target audience 
+4. You need to create **THREE (3)** questions in this survey form
+5. The questions should be relevant to the topic
 
-**BONUS**
-4. 
+**Optional**
+4. Add on questions to know more about the attendee's background and needs for marketing purpose
 
 ### B. Pre-Requisites
 
