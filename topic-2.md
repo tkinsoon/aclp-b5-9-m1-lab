@@ -8,7 +8,7 @@
 4. You only need to create **THREE (3)** questions in this survey form
 5. **[Optional]** Add on questions to know more about the attendee's background and their needs for marketing purpose
 
-You may also refer to the sample [here](https://drive.google.com/drive/u/0/folders/18j0Xj7u1HD8wdLhrJJyuqUCs0xj6aEag)
+You may also refer to the sample [[here]](https://drive.google.com/drive/u/0/folders/18j0Xj7u1HD8wdLhrJJyuqUCs0xj6aEag)
 
 ### B. Pre-Requisites
 
