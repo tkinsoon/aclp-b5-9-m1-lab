@@ -7,7 +7,8 @@
 
 
 ```
-1. Access to the link - https://drive.google.com/drive/u/0/folders/1xk_swGfC2Z4G2uQ9DE8apMsOeieFEzj1
+1. [Click here to access to the shared folder](https://drive.google.com/drive/u/0/folders/1xk_swGfC2Z4G2uQ9DE8apMsOeieFEzj1)
+2. 
 ```
 
 Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
