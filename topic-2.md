@@ -2,14 +2,13 @@
 
 ### A. Requirement
 
-1. You need to create a new Survey Form for an IT Webinar
-2. The IT Webinar is a ONE hour session, and the topic 
-3. The target audience 
-4. You need to create **THREE (3)** questions in this survey form
-5. The questions should be relevant to the topic
+1. Your IT company is planning to run Webinar. The topic is more on Digital Transformation in line with the Government direction and strategy. As one of the event organisers, you are assigned to create a survey form for this webinar 
+2. The webinar is a ONE hour session 
+3. The webinar is open to the public from different industries who are intereted to transform their business into business model 
+4. You only need to create **THREE (3)** questions in this survey form
 
 **Optional**
-4. Add on questions to know more about the attendee's background and needs for marketing purpose
+4. Add on questions to know more about the attendee's background and their needs for marketing purpose
 
 ### B. Pre-Requisites
 
