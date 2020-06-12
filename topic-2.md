@@ -24,4 +24,4 @@ You need to login with your Google account to complete this case study
 3. Click "**CREATE AND SHARE**" on the Pop-Up Dialog Box
 ![title](/images/image2.png)
 
-4. A new "**Untitled form**" is shown on a new page, and you are good to start creating your new form by now!
+4. A new "**Untitled form**" is shown on a new page, and you are good to start adding your questions into the form now!
