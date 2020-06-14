@@ -13,7 +13,7 @@ You may refer to the sample [[here]](https://drive.google.com/drive/u/0/folders/
 
 ### B. Pre-Requisites
 
-You need to login with your Google account to complete this case study
+You need to login with your Google Email ID to complete this case study. Please ping your Instructor if you do not have any Google Email ID
 
 ### C. Steps
 
