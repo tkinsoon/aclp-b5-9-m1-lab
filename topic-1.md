@@ -9,7 +9,7 @@
 4. You only need to create **THREE (3)** questions in this registration form
 5. You need to test out the email invite and make sure the form is also included in the email [**Hint**: Click the "Send" button and find out more]
 
-You may refer to the sample [[here]](https://drive.google.com/drive/u/0/folders/18j0Xj7u1HD8wdLhrJJyuqUCs0xj6aEag)
+<!--- You may refer to the sample [[here]](https://drive.google.com/drive/u/0/folders/18j0Xj7u1HD8wdLhrJJyuqUCs0xj6aEag) -->
 
 ### B. Pre-Requisites
 
